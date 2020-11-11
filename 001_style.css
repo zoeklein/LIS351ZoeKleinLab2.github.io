@@ -1,0 +1,78 @@
+body {
+  background-color:#b3e5fc;
+  margin:50px 100px 100px 100px;
+  padding: 50px 100px 100px 100px;
+}
+
+nav {
+  font-family:"Courier New", Courier, monospace;
+  text-align:center;
+  color:#4fc3f7;
+  text-decoration:none;
+}
+
+a {
+  color:#0492c2;
+}
+
+a { 
+  text-decoration:none;
+  color:#0492c2; 
+}
+
+a:visited { 
+  text-decoration:none;
+  color:#0492c2; 
+}
+
+a:hover { 
+  text-decoration:none;
+  color:#77d2fc; 
+}
+
+a:focus { 
+  text-decoration:none;
+  color:#0492c2; 
+}
+
+h1 {
+  font-family:"Courier New", Courier, monospace;
+  color:#0277bd;
+  text-align:center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+h2 {
+  font-family:"Courier New", Courier, monospace;
+  color:#0277bd;
+  text-align:center;
+}
+
+p {
+  font-family:"Courier New", Courier, monospace;
+  text-align:center;
+}
+
+ul {
+  font-family:"Courier New", Courier, monospace;
+  text-align:center;
+  list-style:none;
+}
+
+h3 {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-align:center;
+  color:#000080;
+}
+
+h4 {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-align:center;
+  color:#000080;
+}
